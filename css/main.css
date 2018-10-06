@@ -31,10 +31,6 @@
       opacity: 1;
   }
 
-  .carousel img {
-     width：100%; 
-  }
-  
   .carousel-position {
       position: absolute;
       left: 0;
